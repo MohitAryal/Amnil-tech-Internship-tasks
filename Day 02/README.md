@@ -80,4 +80,4 @@ We need to watch performance and retrain when necessary.
 
 ---
 
-![ML Pipeline image](Day 02/ML_pipeline.png)
+![ML Pipeline image](ML_Pipeline.png)
