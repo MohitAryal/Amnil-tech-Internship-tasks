@@ -3,8 +3,13 @@
 
 This project demonstrates the implementation of **Linear Regression** using Python.
 
-## Project Overview
-The notebook explores the concept of linear regression, fits a model, and evaluates its performance using metrics.
+## Project Structure
+The project includes:
+- Data loading
+- Exploratory Data Analysis (EDA)
+- Feature preprocessing (handling categorical and numerical variables)
+- Linear Regression modeling
+- Model evaluation (using rmse)
 
 ## Math Behind Linear Regression
 
@@ -42,10 +47,10 @@ Where:
 
 This ensures that the fitted line minimizes the squared differences between actual and predicted values.
 
-## Requirements
-- Python
-- Pandas
-- Matplotlib
-- Scikit-learn
+---
+
+# Results
+
+Trained a linear regression model on an insurance claim dataset and got 5673 rmse.
 
 ---
