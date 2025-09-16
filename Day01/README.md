@@ -42,17 +42,6 @@ Where:
 
 This ensures that the fitted line minimizes the squared differences between actual and predicted values.
 
-## How to Run
-1. Clone this repository or download the notebook.
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook Linear.ipynb
-   ```
-
 ## Requirements
 - Python
 - Pandas
