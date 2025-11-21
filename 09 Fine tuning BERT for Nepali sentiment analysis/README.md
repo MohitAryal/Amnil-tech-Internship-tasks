@@ -1,6 +1,3 @@
-"""
----
-
 # Nepali Sentiment Analysis (ONNX)
 
 This model is a fine-tuned BERT model for Nepali sentiment analysis, exported to ONNX format for optimized inference.
@@ -50,4 +47,3 @@ Trained on Nepali sentiment dataset containing social media text, reviews, and c
 - Best performance on Nepali text
 - May have reduced accuracy on code-mixed or transliterated text
 - Performance varies across different domains
-"""
