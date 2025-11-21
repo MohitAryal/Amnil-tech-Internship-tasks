@@ -1,6 +1,6 @@
-# Nepali Sentiment Analysis (ONNX)
+# Nepali Sentiment Analysis
 
-This model is a fine-tuned BERT model for Nepali sentiment analysis, exported to ONNX format for optimized inference.
+This model is a fine-tuned BERT model for Nepali sentiment analysis.
 
 ## Model Details
 
@@ -10,7 +10,6 @@ This model is a fine-tuned BERT model for Nepali sentiment analysis, exported to
   - 0: Negative
   - 1: Neutral
   - 2: Positive
-- **Format**: ONNX (optimized for fast inference)
 
 ---
 
