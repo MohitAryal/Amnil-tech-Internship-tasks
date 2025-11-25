@@ -8,3 +8,5 @@ safetensors
 torch
 
 numpy
+
+accelerate
